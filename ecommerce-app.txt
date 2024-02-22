@@ -1,0 +1,33 @@
+ecommerce app
+
+
+3 progrmmer
+
+Abhishek - Registra page - validation
+		 
+		
+
+Rohit - Registra pag - storing  API for storage - Spring - addEmployee()
+				  addPerson()
+
+Adarsh - Registra - pag Home page design
+
+
+
+Mary - Project manager
+
+version control system
+
+ centralized repository -- common location - different folders 
+ 	amount of work
+	track changes - history of changes  (revert,compare)
+	functionality - (executable - no compilation errors, test cases passing) - auto 
+	security - authentication
+
+	
+
+gitlab
+
+
+
+ 
